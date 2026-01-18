@@ -1,8 +1,6 @@
 # 🤖 AI SEO Topic Clusterer
 **with CrewAI & SerpAPI**
 
-🌐 **See the Live Application**: [https://ai-seo-topic-clusterer.vercel.app/](https://ai-seo-topic-clusterer.vercel.app/)
-
 > **Transform messy keyword lists into clean, intent-aware topic clusters and production-ready content briefs with AI-powered SEO agents.** ⚡
 
 ---
